@@ -1,0 +1,1 @@
+/home/samuko/ros-dev/colcon-ws/src/smc_ros2_pyserial_test/smc_ros2_pyserial_test/smc_arduino_serial_comm.py
